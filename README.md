@@ -1,7 +1,5 @@
 # AI Screenshot Analyzer - Chrome Extension
 
-![AI Screenshot Analyzer](file-MWq8nEZSbvzbRuK2nuowhP)
-
 ## 📌 Project Overview
 AI Screenshot Analyzer is a Chrome extension that allows users to analyze text using Google Gemini AI. Users can input text, click the "Analyze" button, and receive an AI-generated summary.
 
